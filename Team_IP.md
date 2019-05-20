@@ -18,12 +18,12 @@
 ## NEW Public
 ```
 
-호스트4		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@52.78.185.223
+호스트4		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@52.78.121.78
 호스트5		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@52.78.234.237
 ```
 ## NEW Private
 ```
 
-호스트4		172.31.34.0
+호스트4		172.31.32.216
 호스트5		172.31.44.121
 ```
