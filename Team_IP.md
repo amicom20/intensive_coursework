@@ -27,3 +27,5 @@
 호스트4		172.31.32.216
 호스트5		172.31.44.121
 ```
+## Full Host Name
+호스트1 : ip-172-31-47-164.ap-northeast-2.compute.internal
