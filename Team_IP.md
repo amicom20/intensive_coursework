@@ -1,11 +1,11 @@
 # System connection (GitBash) - day2
 ## Public
 ```
-호스트1		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@54.180.132.61
-호스트2		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@52.78.113.133
-호스트3		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@54.180.141.175
-호스트4		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@52.79.248.233
-호스트5		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@52.79.148.38
+호스트1		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@15.164.64.227
+호스트2		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@15.164.75.124
+호스트3		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@15.164.80.100
+호스트4		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@15.164.80.81
+호스트5		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@15.164.82.191
 ```
 ## Private
 ```
