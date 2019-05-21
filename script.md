@@ -28,7 +28,7 @@ cm이 있는 노드와 데이터노드(nd1번, nd3번)에 training_materials 를
 
 ##   4-2) Go to training_material/devsh/scripts and review the setup.sh See how it works. We are going to use it to create some data for ourselves but it won’t work right away. See if you can figure out what needs to be done to make it work.
 ```
-	nd1, nd3 에서 /home/training/training_materials/devsh/scripts/setup.sh 수행
+nd1, nd3 에서 /home/training/training_materials/devsh/scripts/setup.sh 수행
 setup.sh 실행 권한 없을 경우
 chmod 766 setup.sh 수행
 ```	
