@@ -1,6 +1,6 @@
 # script.md
 
-##(all server)
+##training 계정 생성 및 그룹추가(all server)
 ```
 sudo useradd training 
 sudo passwd training  /  training
