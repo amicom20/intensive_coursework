@@ -1,4 +1,23 @@
-# System connection (GitBash)
+# System connection (GitBash) - day2
+## Public
+```
+호스트1		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@54.180.132.61
+호스트2		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@52.78.113.133
+호스트3		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@54.180.141.175
+호스트4		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@52.79.248.233
+호스트5		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@52.79.148.38
+```
+## Private
+```
+호스트1		172.31.15.44
+호스트2		172.31.12.60
+호스트3		172.31.1.166
+호스트4		172.31.7.143
+호스트5		172.31.13.109
+```
+
+
+# System connection (GitBash) - day1
 ## Public
 ```
 호스트1		ssh -i /c/Users/SKCC/Documents/skcc.pem centos@15.164.29.249
@@ -35,3 +54,4 @@
 호스트4 : ip-172-31-32-216.ap-northeast-2.compute.internal
 호스트5 : ip-172-31-44-121.ap-northeast-2.compute.internal
 ```
+
